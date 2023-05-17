@@ -1,6 +1,6 @@
 # Champions of Regnum Macros
 
-This is a repository to hold Champions of Regnum Macros in autohotkey.
+This is a repository to hold Champions of Regnum Macros using autohotkey.
 
 This is a Champions of Regnum script that is able to switch the macros being used using ImageSearch to identify the current character class being used.
 
@@ -21,3 +21,9 @@ The recommended image file type to use is **.bmp**.
 To run the script simply execute the ```MultiConfig.ahk``` depending on the class Realm (Alsius, Ignis, Syrtis).
 
 Afterwards, clicking ```F9``` will update the current class being used which can be seen on the GUI.
+
+When switching between the different jewelry the GUI gets correctly updated.
+
+![](https://media4.giphy.com/media/AhBTI2FF0MY0RDdm98/giphy.gif)
+
+
