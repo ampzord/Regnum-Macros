@@ -6,7 +6,7 @@ This is a Champions of Regnum script that is able to switch the macros being use
 
 A small GUI displays the current class and the current jewelry setting.
 
-The script uses the ```MultiConfig.ahk``` file and a file for each subclass to enable easier customizable extensions.
+The script uses the ```MultiConfig.ahk``` file and different files for each subclass to enable easier customizable extensions.
 
 ---
 
