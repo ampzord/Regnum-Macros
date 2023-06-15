@@ -20,7 +20,7 @@ IsWarlockClass() {
     return False
 }
 
-; ---------- Barbarian Configurations -------------
+; ---------- Warlock Configurations -------------
 
 WarlockConfigF1(wm_melee_damage_ring) {
     global character_button_hotkey, character_window_path, currentF
