@@ -12,7 +12,7 @@ The script uses the ```MultiConfig.ahk``` file and different files for each subc
 
 ### Image File Type
 
-The recommended image file type to use is **.bmp**.
+The recommended image file type to use is ```.bmp```.
 
 ---
 
